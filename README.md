@@ -1,4 +1,2 @@
 # my-react-app
-My React App
-
-Bla Bla Bla
+My React Application
